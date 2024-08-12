@@ -5,4 +5,5 @@ export type FoodsProps = {
     strMealThumb: string;
     strInstructions: string;
     strYoutube: string;
+    idMeal:number;
   };
